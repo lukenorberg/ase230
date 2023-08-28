@@ -9,7 +9,7 @@ $email = 'norbergp2@mymail.nku.edu';
 $phone_number = '859-962-9251';
 $linkedin = 'https://www.linkedin.com/in/luke-norberg-b74635250/';
 $github = 'https://github.com/lukenorberg';
-$website = 'https://lukenorberg.com';
+$website = 'https://www.nku.edu/';
 
 // Body
 $summary = 'Applied Software Engineering Major at Northern Kentucky University. Motivated professional focused on 
